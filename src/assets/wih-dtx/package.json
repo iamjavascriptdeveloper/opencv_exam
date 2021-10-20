@@ -1,0 +1,11 @@
+{
+  "name": "wih-dtx",
+  "version": "1.0.0",
+  "description": "walk in home dtx data extraction",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aldrynne c. elano",
+  "license": "ISC"
+}
